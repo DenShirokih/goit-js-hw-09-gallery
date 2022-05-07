@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://DenShirokih.io/goit-js-hw-09-gallery",
+  "homepage": "https://denshirokih.io/goit-js-hw-09-gallery",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery/"
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Denis Shirokih <abcdenis95@gmail.com>",
+  "author": "Denis SHirokih <abcdenis95@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
@@ -24,5 +24,8 @@
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
+  },
+  "dependencies": {
+    "deasync": "^0.1.26"
   }
 }
