@@ -1,31 +1,25 @@
 {
-  "name": "parcel-project-template",
-  "version": "1.1.0",
-  "description": "",
-  "main": "index.js",
-  "homepage": " https://denshirokih.github.io/goit-js-hw-09-gallery/",
-  "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
-  },
-  "keywords": [],
-  "author": "Denis Shirokih <abcdenis95@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  },
-  "devDependencies": {
-    "parcel-bundler": "^1.12.5",
-    "parcel-plugin-handlebars-precompile": "^1.0.2",
-    "parcel-plugin-nuke-dist": "^1.0.1",
-    "posthtml-include": "^1.6.2",
-    "sass": "^1.32.8"
-  },
+  "name": "react-template",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "deasync": "^0.1.26"
+    "react": "^18.1.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
