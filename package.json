@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://DenShirokih.github.io/goit-js-hw-09-gallery",
   "dependencies": {
+    "basiclightbox": "^5.0.4",
     "gh-pages": "^3.2.3",
     "react": "^18.1.0",
     "react-scripts": "5.0.1"
