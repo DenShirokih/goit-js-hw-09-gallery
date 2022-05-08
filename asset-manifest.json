@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/goit-js-hw-09-gallery/static/css/main.31d6cfe0.css",
+    "main.js": "/goit-js-hw-09-gallery/static/js/main.31d6cfe0.js",
+    "index.html": "/goit-js-hw-09-gallery/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.31d6cfe0.js"
+  ]
+}
