@@ -8,7 +8,7 @@ const refs = {
 
 const newGallEl = galleryEl.reduce(
   (acc, { preview, original, description }) => {
-    return (acc += `<li class="gallery__item"><a class="gallery__link" href="${original}" data-pswp-width="3000" data-pswp-height="1800"  data-cropped="true" target="_blank"><img class="gallery__image" src="${preview}"alt="${description}"/></a></li>
+    return (acc += `<li class="gallery__item"><a class="gallery__link" href="${original}" data-pswp-width="1600" data-pswp-height="1000"  data-cropped="true" target="_blank"><img class="gallery__image" src="${preview}"alt="${description}"/></a></li>
 `);
   },
   '',
