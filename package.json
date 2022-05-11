@@ -6,6 +6,7 @@
   "dependencies": {
     "basiclightbox": "^5.0.4",
     "gh-pages": "^3.2.3",
+    "photoswipe": "^5.2.7",
     "react": "^18.1.0",
     "react-scripts": "5.0.1"
   },
