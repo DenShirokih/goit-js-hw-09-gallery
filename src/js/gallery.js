@@ -14,6 +14,7 @@ const newGallEl = galleryEl.reduce(
   '',
 );
 refs.galleryList.innerHTML = newGallEl;
+
 const lightbox = new PhotoSwipeLightbox({
   gallery: '#my-gallery',
   children: 'a',
